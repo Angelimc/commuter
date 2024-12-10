@@ -1,0 +1,7 @@
+{
+  "name": "commuter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
